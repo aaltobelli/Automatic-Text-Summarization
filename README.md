@@ -11,13 +11,10 @@ Methods that adopt TF-IDF representations and Machine Learning techniques were i
 
 ![Project Breakdown](images/projectstructure.PNG)
 
-The **system architecture** is:
+Finally, the overall **system architecture** is:
 
 ![System Architecture](images/architecture.png)
 
-### Link:
-| N. | Nome Link | Link |
-| :---:  | --- | --- |
-| 1 | Automatic Text Summarization Lecture | https://www.youtube.com/watch?v=_d0OXm0dRZ4&ab_channel=NDCConferences |
-| 2 | Getting Started with SOLR | https://www.youtube.com/watch?v=Zw4M4NGv-Rw&t=7s&ab_channel=LeanProgramming |
+More info can be found in the .pdf or the .pptx files, while the code can be found in the Jupyter Notebook files.
 
+N.B.: this project was selected and presented as a seminar in the 2020/2021 course of Information Retrieval System at Università degli Studi di Napoli - Federico II.
