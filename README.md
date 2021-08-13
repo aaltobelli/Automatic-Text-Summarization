@@ -1,5 +1,4 @@
-# INFORMATION RETRIEVAL SYSTEMS
-## Automatic Text Summarization - Extractive Techniques
+# Automatic Text Summarization - Extractive Techniques
 
 
 ### Link:
