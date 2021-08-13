@@ -9,7 +9,7 @@ The goal of the following work is to analyze and implement different techniques 
 
 Methods that adopt TF-IDF representations and Machine Learning techniques were implemented. Furthermore, the work was contextualized in a typical Information Retrieval System, more specifically an Apache Solr server.
 
-![Project Breakdown](projectstructure.png)
+![Project Breakdown](SIR/projectstructure.png)
 
 ### Link:
 | N. | Nome Link | Link |
