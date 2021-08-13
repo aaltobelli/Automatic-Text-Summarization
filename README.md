@@ -1,5 +1,5 @@
-# SIR
-Progetto Corso SIR
+# INFORMATION RETRIEVAL SYSTEMS
+Automatic Text Summarization - Extractive Techniques
 
 
 ### Link:
