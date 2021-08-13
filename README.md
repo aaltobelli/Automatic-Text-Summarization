@@ -7,9 +7,13 @@ The goal of the following work is to analyze and implement different techniques 
 2. Scoring of the sentences based on such representation;
 3. Selection of a summary comprising of a number of sentences (e.g. sentences with the highest score).
 
-Methods that adopt TF-IDF representations and Machine Learning techniques were implemented. Furthermore, the work was contextualized in a typical Information Retrieval System, more specifically an Apache Solr server.
+Methods that adopt TF-IDF representations and Machine Learning techniques were implemented. Furthermore, the work was contextualized in a typical Information Retrieval System, more specifically in an Apache Solr server. The following image shows the overall project steps:
 
-![Project Breakdown](projectstructure.PNG)
+![Project Breakdown](images/projectstructure.PNG)
+
+The **system architecture** is:
+
+![System Architecture](images/architecture.png)
 
 ### Link:
 | N. | Nome Link | Link |
